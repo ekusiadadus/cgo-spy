@@ -18,3 +18,5 @@ Creating a OHLC chart with the data.
 ```bash
 $ python3 main.py
 ```
+
+![image](https://user-images.githubusercontent.com/70436490/200284554-802cb07f-2528-4e66-a88a-2ce1097bb847.png)
